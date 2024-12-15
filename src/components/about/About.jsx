@@ -27,12 +27,12 @@ const About = () => {
         <Box>
             <Banner/>
             <Wrapper>
-                <Typography variant="h3">Aadil Rashid</Typography>
+                <Typography variant="h3">Gopal Rajak</Typography>
                 <Text variant="h5">I'm currently persuing my Engineering from BIT Mesra, Ranchi. 
                     I have tried to make this website as simple as i can.<br />
                     If you are interested, you can suggest some changes  here 
                     <Box component="span" style={{ marginLeft: 5 }}>
-                       " <Link href="mailto:aadilr151@gmail.com?Subject=This is a subject" color="inherit" target="_blank">
+                       " <Link href="mailto:gopalkumar74667@gmail.com?Subject=This is a subject" color="inherit" target="_blank">
                             <Email />
                         </Link> "
                     </Box>
